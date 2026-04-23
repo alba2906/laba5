@@ -133,10 +133,12 @@ ProgramNode
 
 В отчёте представлены:
 
-- CST — полное синтаксическое дерево (со всеми символами)
-- AST — абстрактное дерево (без служебных символов)
+- CST — полное синтаксическое дерево
+  <img width="998" height="367" alt="image" src="https://github.com/user-attachments/assets/f23a6f2d-7822-4294-bc46-c3be461eeb58" />
 
-Рисунок выполнен в редакторе **draw.io (diagrams.net)**.
+- AST — абстрактное дерево (без служебных символов)
+<img width="930" height="268" alt="image" src="https://github.com/user-attachments/assets/b0d98a4b-a354-432e-b976-76dbbf5755af" />
+
 
 ---
 
@@ -182,6 +184,8 @@ Dictionary<int, string> dict = new Dictionary<int, string> { {1, "one"} };
 Результат:
 - ошибок нет
 - AST строится
+<img width="285" height="281" alt="image" src="https://github.com/user-attachments/assets/b842ead6-fd80-47c8-a4bd-3a1111a1cd83" />
+<img width="1782" height="991" alt="image" src="https://github.com/user-attachments/assets/9b3d0eac-7a56-48b4-9aa6-4a5be1ef2556" />
 
 ---
 
@@ -197,6 +201,11 @@ Dictionary<int, string> dict = new Dictionary<int, string> {
 Результат:
 - ошибка семантики
 - в AST остаётся только первый элемент
+ <img width="729" height="120" alt="image" src="https://github.com/user-attachments/assets/926eee81-ea2a-41d8-800c-813d136f48c8" />
+<img width="268" height="258" alt="image" src="https://github.com/user-attachments/assets/f07d3a18-de55-429e-ab7a-366ff3448a7a" />
+<img width="1741" height="994" alt="image" src="https://github.com/user-attachments/assets/c2965c02-3c10-444c-8204-79cbb3239bb8" />
+
+
 
 ---
 
@@ -209,21 +218,14 @@ Dictionary<int, string> dict = new Dictionary<int, string> { {2, "two"} };
 
 Результат:
 - ошибка уникальности идентификатора
+- в AST остаётся только первый словарь
+<img width="724" height="103" alt="image" src="https://github.com/user-attachments/assets/76638c7f-083a-4e09-8a95-b1b96290f9b1" />
+<img width="269" height="265" alt="image" src="https://github.com/user-attachments/assets/6cd703de-d5a0-457e-8d8f-dddca73a1db2" />
+<img width="1774" height="987" alt="image" src="https://github.com/user-attachments/assets/9aa67787-17ed-4e09-8d8b-f26e4a52a6f0" />
 
 ---
 
-## Скриншоты
 
-В отчёте представлены:
-
-- окно программы  
-- таблица лексем  
-- синтаксические ошибки  
-- семантические ошибки  
-- текстовое AST  
-- графическое AST  
-
----
 
 ## Инструкция по запуску
 
