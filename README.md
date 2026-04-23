@@ -201,8 +201,7 @@ Dictionary<int, string> dict = new Dictionary<int, string> {
 Результат:
 - ошибка семантики
 - в AST остаётся только первый элемент
- <img width="729" height="120" alt="image" src="https://github.com/user-attachments/assets/926eee81-ea2a-41d8-800c-813d136f48c8" />
-<img width="268" height="258" alt="image" src="https://github.com/user-attachments/assets/f07d3a18-de55-429e-ab7a-366ff3448a7a" />
+<img width="1106" height="247" alt="image" src="https://github.com/user-attachments/assets/57df9ff6-9eeb-4e2f-90f6-7fddfc8c69df" />
 <img width="1741" height="994" alt="image" src="https://github.com/user-attachments/assets/c2965c02-3c10-444c-8204-79cbb3239bb8" />
 
 
@@ -219,8 +218,7 @@ Dictionary<int, string> dict = new Dictionary<int, string> { {2, "two"} };
 Результат:
 - ошибка уникальности идентификатора
 - в AST остаётся только первый словарь
-<img width="724" height="103" alt="image" src="https://github.com/user-attachments/assets/76638c7f-083a-4e09-8a95-b1b96290f9b1" />
-<img width="269" height="265" alt="image" src="https://github.com/user-attachments/assets/6cd703de-d5a0-457e-8d8f-dddca73a1db2" />
+<img width="1152" height="264" alt="image" src="https://github.com/user-attachments/assets/fb44aacc-bae2-4872-b63b-b47002d6b9b6" />
 <img width="1774" height="987" alt="image" src="https://github.com/user-attachments/assets/9aa67787-17ed-4e09-8d8b-f26e4a52a6f0" />
 
 ---
