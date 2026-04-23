@@ -136,7 +136,7 @@ ProgramNode
 - CST — полное синтаксическое дерево
   <img width="998" height="367" alt="image" src="https://github.com/user-attachments/assets/f23a6f2d-7822-4294-bc46-c3be461eeb58" />
 
-- AST — абстрактное дерево (без служебных символов)
+- AST — абстрактное дерево 
 <img width="930" height="268" alt="image" src="https://github.com/user-attachments/assets/b0d98a4b-a354-432e-b976-76dbbf5755af" />
 
 
