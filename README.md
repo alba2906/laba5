@@ -184,10 +184,7 @@ Dictionary<int, string> dict = new Dictionary<int, string> { {1, "one"} };
 Результат:
 - ошибок нет
 - AST строится
-<img width="389" height="113" alt="image" src="https://github.com/user-attachments/assets/41995cc8-a327-4003-895f-557626ab30a3" />
-<img width="198" height="56" alt="image" src="https://github.com/user-attachments/assets/2ed12935-fe2b-4b6c-840c-7dca6ab5139b" />
-<img width="265" height="70" alt="image" src="https://github.com/user-attachments/assets/648b121b-713d-4aec-885c-aff48b6faad0" />
-
+<img width="402" height="220" alt="image" src="https://github.com/user-attachments/assets/c4936e1f-4ba0-41f5-bd1f-6a00466a3ccf" />
 <img width="1782" height="991" alt="image" src="https://github.com/user-attachments/assets/9b3d0eac-7a56-48b4-9aa6-4a5be1ef2556" />
 
 ---
